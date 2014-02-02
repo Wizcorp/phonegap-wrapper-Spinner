@@ -1,0 +1,10 @@
+{
+	"name": "pgSpinner",
+	"repo": "Wizcorp/phonegap-wrapper-Spinner",
+	"description": "wizSpinner wrapper for PhoneGap plugin",
+	"version": "0.1.0",
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
